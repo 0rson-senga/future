@@ -1,2 +1,1 @@
-# future
-this is my project future
+Simple CMS(Content Management System)
